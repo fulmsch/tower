@@ -7,7 +7,7 @@ package tower;
 
 /**
  *
- * @author florian
+ * @author florian and joel
  */
 public class Tower {
 
