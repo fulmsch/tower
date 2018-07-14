@@ -18,7 +18,9 @@ public class Map {
 
 	public class Field {
 		public fieldType type;
-		public GameObject[] objects;
+		public TowerObject tower;
+		public EnemyObject[] enemies;
+
 		public Field (fieldType type) {
 			this.type = type;
 		}
