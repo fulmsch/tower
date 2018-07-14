@@ -16,6 +16,10 @@ public class Tower {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+	Map map = new Map();
+	map.initTest();
+	System.out.println(map.grid);
+	
     }
     
 }
